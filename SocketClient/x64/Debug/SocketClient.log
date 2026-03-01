@@ -1,0 +1,19 @@
+﻿  client2.cpp
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(2,9): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+      C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(2,9):
+      '_WINSOCK_DEPRECATED_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(3,9): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+      C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(3,9):
+      'WIN32_LEAN_AND_MEAN' previously declared on the command line
+  
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(151,19): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(162,33): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(170,32): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(178,32): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(181,19): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(186,22): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(194,33): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(199,33): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\marou\source\repos\ChatSystemProject\ChatSystemProject\client2.cpp(202,16): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+  SocketClient.vcxproj -> C:\Users\marou\source\repos\ChatSystemProject\x64\Debug\SocketClient.exe
