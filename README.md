@@ -1,7 +1,7 @@
 
 # Chat System
 
-This is a Socket based chat system that allows you to chat with ur friends by connecting on the same IP adress 
+This is a Socket based chat system that allows you to chat with ur friends by connecting on the same IP address 
 
 ## Features
 
